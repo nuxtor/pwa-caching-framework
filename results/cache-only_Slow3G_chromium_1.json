@@ -1,0 +1,22 @@
+{
+  "strategy": "cache-only",
+  "networkCondition": "Slow3G",
+  "iteration": 1,
+  "browser": "chromium",
+  "timestamp": 1791166822214,
+  "metrics": {
+    "fcp": null,
+    "lcp": null,
+    "cls": null,
+    "ttfb": null,
+    "loadTime": 0,
+    "domContentLoaded": 0,
+    "transferSize": 0
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": false,
+  "error": "page.click: Test timeout of 60000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('button:has-text(\"Fetch Data\")')\u001b[22m\n"
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": "stale-while-revalidate",
+  "networkCondition": "4G",
+  "iteration": 1,
+  "browser": "chromium",
+  "timestamp": 1791165698768,
+  "metrics": {
+    "fcp": 3256,
+    "lcp": null,
+    "cls": null,
+    "ttfb": 5.799999952316284,
+    "loadTime": 3196.100000023842,
+    "domContentLoaded": 3195.7999999523163,
+    "transferSize": 1590267
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": true
+}

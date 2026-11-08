@@ -1,0 +1,22 @@
+{
+  "strategy": "cache-first",
+  "networkCondition": "Offline",
+  "iteration": 1,
+  "browser": "chromium",
+  "timestamp": 1791165217648,
+  "metrics": {
+    "fcp": null,
+    "lcp": null,
+    "cls": null,
+    "ttfb": null,
+    "loadTime": 0,
+    "domContentLoaded": 0,
+    "transferSize": 0
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": false,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at http://localhost:5173/\nCall log:\n\u001b[2m  - navigating to \"http://localhost:5173/\", waiting until \"networkidle\"\u001b[22m\n"
+}

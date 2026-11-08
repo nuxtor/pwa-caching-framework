@@ -1,0 +1,22 @@
+{
+  "strategy": "stale-while-revalidate",
+  "networkCondition": "Offline",
+  "iteration": 2,
+  "browser": "webkit",
+  "timestamp": 1791650171826,
+  "metrics": {
+    "fcp": null,
+    "lcp": null,
+    "cls": null,
+    "ttfb": null,
+    "loadTime": 0,
+    "domContentLoaded": 0,
+    "transferSize": 0
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": false,
+  "error": "browserContext.newCDPSession: CDP session is only available in Chromium"
+}

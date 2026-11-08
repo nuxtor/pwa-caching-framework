@@ -1,0 +1,21 @@
+{
+  "strategy": "cache-only",
+  "networkCondition": "Slow3G",
+  "iteration": 6,
+  "browser": "chromium",
+  "timestamp": 1791242990833,
+  "metrics": {
+    "fcp": 25368,
+    "lcp": null,
+    "cls": null,
+    "ttfb": 3.5,
+    "loadTime": 25320.699999928474,
+    "domContentLoaded": 25320.5,
+    "transferSize": 1590261
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": true
+}

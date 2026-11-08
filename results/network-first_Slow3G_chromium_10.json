@@ -1,0 +1,21 @@
+{
+  "strategy": "network-first",
+  "networkCondition": "Slow3G",
+  "iteration": 10,
+  "browser": "chromium",
+  "timestamp": 1791165661378,
+  "metrics": {
+    "fcp": 25352,
+    "lcp": null,
+    "cls": null,
+    "ttfb": 3.4000000953674316,
+    "loadTime": 25312.600000023842,
+    "domContentLoaded": 25312.5,
+    "transferSize": 1590269
+  },
+  "cacheMetrics": {
+    "hitRate": 0,
+    "totalRequests": 0
+  },
+  "success": true
+}
